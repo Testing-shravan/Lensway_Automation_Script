@@ -75,3 +75,51 @@
 2018-01-09 17:20:37 INFO  HomePage:114 - clicked the register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
 2018-01-09 17:20:49 INFO  HomePage:116 - clicked the logout button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
 2018-01-09 17:21:09 INFO  TestBase:32 - #######################Finished test to User registration details#####################################
+2018-01-09 21:16:17 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 21:16:19 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (78e3c08d6a78e0803ddb6b4da3acc5e1)] -> xpath: //span[text()='Logga in']]
+2018-01-09 21:16:19 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (78e3c08d6a78e0803ddb6b4da3acc5e1)] -> xpath: //input[@name='j_username']]
+2018-01-09 21:16:20 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (78e3c08d6a78e0803ddb6b4da3acc5e1)] -> xpath: //input[@name='j_password']]
+2018-01-09 21:16:20 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (78e3c08d6a78e0803ddb6b4da3acc5e1)] -> xpath: //input[@value='Logga in']]
+2018-01-09 21:16:22 INFO  TestBase:36 - #######################Finished test to verify login details#####################################
+2018-01-09 21:21:39 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 21:21:40 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (b897775cf641f94a806d50d088bfd9f1)] -> xpath: //span[text()='Logga in']]
+2018-01-09 21:21:40 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (b897775cf641f94a806d50d088bfd9f1)] -> xpath: //input[@name='j_username']]
+2018-01-09 21:21:40 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (b897775cf641f94a806d50d088bfd9f1)] -> xpath: //input[@name='j_password']]
+2018-01-09 21:21:41 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (b897775cf641f94a806d50d088bfd9f1)] -> xpath: //input[@value='Logga in']]
+2018-01-09 21:21:42 INFO  TestBase:36 - #######################Finished test to verify login details#####################################
+2018-01-09 21:24:46 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 21:24:47 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (d17511088e6ec98bcb76f432006da4ce)] -> xpath: //span[text()='Logga in']]
+2018-01-09 21:24:47 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (d17511088e6ec98bcb76f432006da4ce)] -> xpath: //input[@name='j_username']]
+2018-01-09 21:24:47 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (d17511088e6ec98bcb76f432006da4ce)] -> xpath: //input[@name='j_password']]
+2018-01-09 21:24:48 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (d17511088e6ec98bcb76f432006da4ce)] -> xpath: //input[@value='Logga in']]
+2018-01-09 21:24:49 INFO  TestBase:36 - #######################Finished test to verify login details#####################################
+2018-01-09 21:27:42 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 21:27:43 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (6e5a397b8a4b59510e3c77a5373956a6)] -> xpath: //span[text()='Logga in']]
+2018-01-09 21:27:43 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (6e5a397b8a4b59510e3c77a5373956a6)] -> xpath: //input[@name='j_username']]
+2018-01-09 21:27:43 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (6e5a397b8a4b59510e3c77a5373956a6)] -> xpath: //input[@name='j_password']]
+2018-01-09 21:27:44 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (6e5a397b8a4b59510e3c77a5373956a6)] -> xpath: //input[@value='Logga in']]
+2018-01-09 21:27:45 INFO  TestBase:36 - #######################Finished test to verify login details#####################################
+2018-01-09 21:31:15 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 21:31:16 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (0326a655c4d975a32d371c7038c3f08b)] -> xpath: //span[text()='Logga in']]
+2018-01-09 21:31:16 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (0326a655c4d975a32d371c7038c3f08b)] -> xpath: //input[@name='j_username']]
+2018-01-09 21:31:17 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (0326a655c4d975a32d371c7038c3f08b)] -> xpath: //input[@name='j_password']]
+2018-01-09 21:31:17 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (0326a655c4d975a32d371c7038c3f08b)] -> xpath: //input[@value='Logga in']]
+2018-01-09 21:31:21 INFO  TestBase:36 - #######################Finished test to verify login details#####################################
+2018-01-09 21:36:22 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 21:36:23 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (e441437c053a48cced3f3e1c575d23d3)] -> xpath: //span[text()='Logga in']]
+2018-01-09 21:36:24 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (e441437c053a48cced3f3e1c575d23d3)] -> xpath: //input[@name='j_username']]
+2018-01-09 21:36:24 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (e441437c053a48cced3f3e1c575d23d3)] -> xpath: //input[@name='j_password']]
+2018-01-09 21:36:24 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (e441437c053a48cced3f3e1c575d23d3)] -> xpath: //input[@value='Logga in']]
+2018-01-09 21:36:25 INFO  TestBase:36 - #######################Finished test to verify login details#####################################
+2018-01-09 21:38:41 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-09 21:38:42 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (e20e0de0c0d6546541ed32795c74b94d)] -> xpath: //span[text()='Logga in']]
+2018-01-09 21:38:43 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (e20e0de0c0d6546541ed32795c74b94d)] -> xpath: //input[@name='j_username']]
+2018-01-09 21:38:43 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (e20e0de0c0d6546541ed32795c74b94d)] -> xpath: //input[@name='j_password']]
+2018-01-09 21:38:43 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (e20e0de0c0d6546541ed32795c74b94d)] -> xpath: //input[@value='Logga in']]
+2018-01-09 21:38:47 INFO  TestBase:36 - #######################Finished test to verify login details#####################################
+2018-01-09 21:40:17 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-09 21:40:19 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (717db8867126951652d29d3b024478d5)] -> xpath: //span[text()='Logga in']]
+2018-01-09 21:40:19 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (717db8867126951652d29d3b024478d5)] -> xpath: //input[@name='j_username']]
+2018-01-09 21:40:19 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (717db8867126951652d29d3b024478d5)] -> xpath: //input[@name='j_password']]
+2018-01-09 21:40:20 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (717db8867126951652d29d3b024478d5)] -> xpath: //input[@value='Logga in']]
+2018-01-09 21:40:24 INFO  TestBase:37 - #######################Finished test to verify login details#####################################

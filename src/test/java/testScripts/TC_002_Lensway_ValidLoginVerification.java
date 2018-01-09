@@ -31,7 +31,7 @@ public class TC_002_Lensway_ValidLoginVerification extends TestBase {
         homePage=new HomePage(driver);
 
         homePage.login_Lensway("Testuat@lensway.com", "Test@1231");
-     
+
         getScreenShot("loginValidation");
 
         log.info("#######################Finished test to verify login details#####################################");
