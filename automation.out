@@ -1,0 +1,77 @@
+2018-01-09 15:54:45 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (e31f75e8bef7bbc268f823912cdebb1e)] -> xpath: //span[text()='Logga in']]
+2018-01-09 15:54:45 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (e31f75e8bef7bbc268f823912cdebb1e)] -> xpath: //input[@name='j_username']]
+2018-01-09 15:54:46 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (e31f75e8bef7bbc268f823912cdebb1e)] -> xpath: //input[@name='j_password']]
+2018-01-09 15:54:46 INFO  HomePage:85 - Clicked login button = [[ChromeDriver: chrome on XP (e31f75e8bef7bbc268f823912cdebb1e)] -> xpath: //input[@value='Logga in']]
+2018-01-09 15:58:46 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 15:58:47 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (6ee49a39ebf913d692729c112ae74904)] -> xpath: //span[text()='Logga in']]
+2018-01-09 15:58:47 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (6ee49a39ebf913d692729c112ae74904)] -> xpath: //input[@name='j_username']]
+2018-01-09 15:58:48 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (6ee49a39ebf913d692729c112ae74904)] -> xpath: //input[@name='j_password']]
+2018-01-09 15:58:48 INFO  HomePage:85 - Clicked login button = [[ChromeDriver: chrome on XP (6ee49a39ebf913d692729c112ae74904)] -> xpath: //input[@value='Logga in']]
+2018-01-09 15:58:48 INFO  TestBase:34 - #######################Finished test to verify login details#####################################
+2018-01-09 16:13:32 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 16:13:32 INFO  HomePage:79 - Mousehovered to login button = [[ChromeDriver: chrome on XP (63e53c14cb0458a368b1312c29ae2988)] -> xpath: //span[text()='Logga in']]
+2018-01-09 16:13:33 INFO  HomePage:82 - Entered the username = [[ChromeDriver: chrome on XP (63e53c14cb0458a368b1312c29ae2988)] -> xpath: //input[@name='j_username']]
+2018-01-09 16:13:33 INFO  HomePage:84 - Entered the password = [[ChromeDriver: chrome on XP (63e53c14cb0458a368b1312c29ae2988)] -> xpath: //input[@name='j_password']]
+2018-01-09 16:13:33 INFO  HomePage:86 - Clicked login button = [[ChromeDriver: chrome on XP (63e53c14cb0458a368b1312c29ae2988)] -> xpath: //input[@value='Logga in']]
+2018-01-09 16:13:48 INFO  HomePage:93 - Mousehovered to login button = Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Logga in']'
+2018-01-09 16:19:18 INFO  TestBase:26 - #######################Starting test to verify User registration details#####################################
+2018-01-09 16:19:19 INFO  HomePage:93 - Mousehovered to login button = [[ChromeDriver: chrome on XP (b8f58d89ac87efc0af5111bca2e3c8e7)] -> xpath: //span[text()='Logga in']]
+2018-01-09 16:19:34 INFO  HomePage:98 - Clicked register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:19:34 INFO  HomePage:104 - Entered email to register = [[[ChromeDriver: chrome on XP (b8f58d89ac87efc0af5111bca2e3c8e7)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (b8f58d89ac87efc0af5111bca2e3c8e7)] -> xpath: //input[@name='email']]]
+2018-01-09 16:19:35 INFO  HomePage:106 - Rentered email to register = [[ChromeDriver: chrome on XP (b8f58d89ac87efc0af5111bca2e3c8e7)] -> name: email-repeat]
+2018-01-09 16:19:35 INFO  HomePage:112 - Entered password to register = [[ChromeDriver: chrome on XP (b8f58d89ac87efc0af5111bca2e3c8e7)] -> xpath: //input[@name='j_password']]
+2018-01-09 16:19:36 INFO  HomePage:115 - Checked agree to register = [[ChromeDriver: chrome on XP (b8f58d89ac87efc0af5111bca2e3c8e7)] -> name: i_agree]
+2018-01-09 16:33:30 INFO  TestBase:26 - #######################Starting test to verify User registration details#####################################
+2018-01-09 16:33:31 INFO  HomePage:90 - Mousehovered to login button = [[ChromeDriver: chrome on XP (7d626e578f3a66f1057761d510bda541)] -> xpath: //span[text()='Logga in']]
+2018-01-09 16:33:58 INFO  HomePage:95 - Clicked register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:33:59 INFO  HomePage:101 - Entered email to register = [[[ChromeDriver: chrome on XP (7d626e578f3a66f1057761d510bda541)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (7d626e578f3a66f1057761d510bda541)] -> xpath: //input[@name='email']]]
+2018-01-09 16:33:59 INFO  HomePage:103 - Rentered email to register = [[ChromeDriver: chrome on XP (7d626e578f3a66f1057761d510bda541)] -> name: email-repeat]
+2018-01-09 16:34:00 INFO  HomePage:109 - Entered password to register = [[ChromeDriver: chrome on XP (7d626e578f3a66f1057761d510bda541)] -> xpath: //input[@name='j_password']]
+2018-01-09 16:34:00 INFO  HomePage:112 - Checked agree to register = [[ChromeDriver: chrome on XP (7d626e578f3a66f1057761d510bda541)] -> name: i_agree]
+2018-01-09 16:34:13 INFO  HomePage:114 - clicked the register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:37:51 INFO  TestBase:26 - #######################Starting test to verify User registration details#####################################
+2018-01-09 16:37:52 INFO  HomePage:90 - Mousehovered to login button = [[ChromeDriver: chrome on XP (fce62ebe296046c9b17075bf683a1313)] -> xpath: //span[text()='Logga in']]
+2018-01-09 16:38:09 INFO  HomePage:95 - Clicked register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:38:10 INFO  HomePage:101 - Entered email to register = [[[ChromeDriver: chrome on XP (fce62ebe296046c9b17075bf683a1313)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (fce62ebe296046c9b17075bf683a1313)] -> xpath: //input[@name='email']]]
+2018-01-09 16:38:11 INFO  HomePage:103 - Rentered email to register = [[ChromeDriver: chrome on XP (fce62ebe296046c9b17075bf683a1313)] -> name: email-repeat]
+2018-01-09 16:38:11 INFO  HomePage:109 - Entered password to register = [[ChromeDriver: chrome on XP (fce62ebe296046c9b17075bf683a1313)] -> xpath: //input[@name='j_password']]
+2018-01-09 16:38:11 INFO  HomePage:112 - Checked agree to register = [[ChromeDriver: chrome on XP (fce62ebe296046c9b17075bf683a1313)] -> name: i_agree]
+2018-01-09 16:38:24 INFO  HomePage:114 - clicked the register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:38:37 INFO  HomePage:116 - clicked the logout button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:38:37 INFO  TestBase:31 - #######################Finished test to User registration details#####################################
+2018-01-09 16:44:23 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################
+2018-01-09 16:44:24 INFO  HomePage:90 - Mousehovered to login button = [[ChromeDriver: chrome on XP (f112c086e7d6a51629b4f8da6a5d6d40)] -> xpath: //span[text()='Logga in']]
+2018-01-09 16:47:13 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################
+2018-01-09 16:47:14 INFO  HomePage:90 - Mousehovered to login button = [[ChromeDriver: chrome on XP (c8c054edeb0793dce4e575ef914c27d5)] -> xpath: //span[text()='Logga in']]
+2018-01-09 16:47:54 INFO  HomePage:95 - Clicked register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:47:54 INFO  HomePage:101 - Entered email to register = [[[ChromeDriver: chrome on XP (c8c054edeb0793dce4e575ef914c27d5)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (c8c054edeb0793dce4e575ef914c27d5)] -> xpath: //input[@name='email']]]
+2018-01-09 16:47:55 INFO  HomePage:103 - Rentered email to register = [[ChromeDriver: chrome on XP (c8c054edeb0793dce4e575ef914c27d5)] -> name: email-repeat]
+2018-01-09 16:47:55 INFO  HomePage:109 - Entered password to register = [[ChromeDriver: chrome on XP (c8c054edeb0793dce4e575ef914c27d5)] -> xpath: //input[@name='j_password']]
+2018-01-09 16:47:56 INFO  HomePage:112 - Checked agree to register = [[ChromeDriver: chrome on XP (c8c054edeb0793dce4e575ef914c27d5)] -> name: i_agree]
+2018-01-09 16:48:08 INFO  HomePage:114 - clicked the register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:48:21 INFO  HomePage:116 - clicked the logout button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 16:48:41 INFO  TestBase:32 - #######################Finished test to User registration details#####################################
+2018-01-09 17:18:22 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 17:18:23 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (d532c3d8c8a1770bb8c01cf9d4dcfd17)] -> xpath: //span[text()='Logga in']]
+2018-01-09 17:18:23 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (d532c3d8c8a1770bb8c01cf9d4dcfd17)] -> xpath: //input[@name='j_username']]
+2018-01-09 17:18:23 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (d532c3d8c8a1770bb8c01cf9d4dcfd17)] -> xpath: //input[@name='j_password']]
+2018-01-09 17:18:24 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (d532c3d8c8a1770bb8c01cf9d4dcfd17)] -> xpath: //input[@value='Logga in']]
+2018-01-09 17:18:24 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-09 17:19:58 INFO  TestBase:42 - Creating object of chrome
+2018-01-09 17:20:00 INFO  TestBase:60 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-09 17:20:04 INFO  TestBase:31 - #######################Starting test to verify login details#####################################
+2018-01-09 17:20:05 INFO  HomePage:77 - Mousehovered to login button = [[ChromeDriver: chrome on XP (92b50ca5ad3912f4110e9e63b4d4add2)] -> xpath: //span[text()='Logga in']]
+2018-01-09 17:20:06 INFO  HomePage:80 - Entered the username = [[ChromeDriver: chrome on XP (92b50ca5ad3912f4110e9e63b4d4add2)] -> xpath: //input[@name='j_username']]
+2018-01-09 17:20:06 INFO  HomePage:82 - Entered the password = [[ChromeDriver: chrome on XP (92b50ca5ad3912f4110e9e63b4d4add2)] -> xpath: //input[@name='j_password']]
+2018-01-09 17:20:07 INFO  HomePage:84 - Clicked login button = [[ChromeDriver: chrome on XP (92b50ca5ad3912f4110e9e63b4d4add2)] -> xpath: //input[@value='Logga in']]
+2018-01-09 17:20:07 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-09 17:20:07 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################
+2018-01-09 17:20:07 INFO  HomePage:90 - Mousehovered to login button = [[ChromeDriver: chrome on XP (b3602a8ad0babf6c7f0987667757d492)] -> xpath: //span[text()='Logga in']]
+2018-01-09 17:20:23 INFO  HomePage:95 - Clicked register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 17:20:23 INFO  HomePage:101 - Entered email to register = [[[ChromeDriver: chrome on XP (b3602a8ad0babf6c7f0987667757d492)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (b3602a8ad0babf6c7f0987667757d492)] -> xpath: //input[@name='email']]]
+2018-01-09 17:20:24 INFO  HomePage:103 - Rentered email to register = [[ChromeDriver: chrome on XP (b3602a8ad0babf6c7f0987667757d492)] -> name: email-repeat]
+2018-01-09 17:20:24 INFO  HomePage:109 - Entered password to register = [[ChromeDriver: chrome on XP (b3602a8ad0babf6c7f0987667757d492)] -> xpath: //input[@name='j_password']]
+2018-01-09 17:20:24 INFO  HomePage:112 - Checked agree to register = [[ChromeDriver: chrome on XP (b3602a8ad0babf6c7f0987667757d492)] -> name: i_agree]
+2018-01-09 17:20:37 INFO  HomePage:114 - clicked the register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 17:20:49 INFO  HomePage:116 - clicked the logout button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-09 17:21:09 INFO  TestBase:32 - #######################Finished test to User registration details#####################################
