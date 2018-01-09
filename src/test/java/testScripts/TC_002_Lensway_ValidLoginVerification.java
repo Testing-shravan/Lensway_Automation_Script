@@ -26,11 +26,13 @@ public class TC_002_Lensway_ValidLoginVerification extends TestBase {
 
     @Test
 
-    public void userRegistration()
-    {
+    public void loginValidation() throws InterruptedException {
         log.info("#######################Starting test to verify login details#####################################");
         homePage=new HomePage(driver);
+
         homePage.login_Lensway("Testuat@lensway.com", "Test@1231");
+     
+        getScreenShot("loginValidation");
 
         log.info("#######################Finished test to verify login details#####################################");
 
