@@ -1,5 +1,7 @@
 package testBase;
 
+import lenswayPages.HomePage;
+import lenswayPages.LensPage;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -22,6 +24,8 @@ public class TestBase {
     public static final Logger log=Logger.getLogger(TestBase.class.getName());
 
     public WebDriver driver;
+    public HomePage homePage;
+    public LensPage lensPage;
     String url="https://uat-lw-se.lenslogistics.com/";
     String browser="chrome";
 
