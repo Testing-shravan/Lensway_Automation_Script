@@ -7,10 +7,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import testBase.TestBase;
 
-
-
-public class TC_005_Lensway_PurchaseLenses extends TestBase {
-
+public class TC_006_Lensway_PurchaseLenses_Germany extends TestBase {
 
     @BeforeTest
 
@@ -24,7 +21,7 @@ public class TC_005_Lensway_PurchaseLenses extends TestBase {
 
     public void lensValidation()   {
         log.info("#######################Starting test to verify login details#####################################");
-         homePage=new HomePage(driver);
+        homePage=new HomePage(driver);
         lensPage=new LensPage(driver);
         homePage.login_Lensway("Testuat@lenswaygroup.com", "Test@1231");
         lensPage.LensProduct();
@@ -35,11 +32,10 @@ public class TC_005_Lensway_PurchaseLenses extends TestBase {
 
     @AfterClass
 
-   public void endTest()
-   {
-       driver.close();
+    public void endTest()
+    {
+        driver.close();
 
-   }
+    }
 
 }
-

@@ -35,32 +35,8 @@ public class LensPage extends TestBase {
     @FindBy(xpath = ".//*[@id='left_eye_checkbox']")
     private WebElement leftEyeCheckbox;
 
-    @FindBy(id = "right_eye_checkbox")
+    @FindBy(id = ".//*[@id='right_eye_checkbox']")
     private WebElement rightEyeCheckbox;
-
-    @FindBy(id = "prod_pow_right")
-    protected WebElement rightEyePower;
-
-    @FindBy(id = "prod_pow_left")
-    protected WebElement leftEyePower;
-
-    @FindBy(id = "prod_bc_right")
-    protected WebElement rightEyeBC;
-
-    @FindBy(id = "prod_bc_left")
-    protected WebElement leftEyeBC;
-
-    @FindBy(id = "prod_dia_right")
-    protected WebElement rightEyeDiameter;
-
-    @FindBy(id = "prod_dia_left")
-    protected WebElement leftEyeDiameter;
-
-    @FindBy(id = "prod_quantity_right")
-    protected WebElement rightLensQuantity;
-
-    @FindBy(id = "prod_quantity_left")
-    protected WebElement leftLensQuantity;
 
     @FindBy(id = "js-buy-btn")
     protected WebElement gotoCart;
@@ -69,55 +45,6 @@ public class LensPage extends TestBase {
     private WebElement confirmGotoCart;
 
 //****************************************************************************************//
-
-    @FindBy(id = "no-popup")
-    private WebElement doNotShowCheckbox;
-
-    @FindBy(className = "offers-to-cart__button")
-    protected WebElement precartButton;
-
-    @FindBy(id = "popup-related-products")
-    protected WebElement popupOnCart;
-
-    @FindBy(xpath = "//article[@class='info-wrapper__body']/p[@class='hide']")
-    private List<WebElement> productAbsentInfo;
-
-    @FindBy(className = "loadingoverlay")
-    private WebElement overlay;
-
-    @FindBy(xpath = "//a[contains(@class,'info-wrapper__link')]")
-    private WebElement linkToAnotherProduct;
-
-    @FindBy(xpath = "//*[@id='notInStockWithReplace']")
-    private WebElement replaceWithOtherProductButton;
-
-    @FindBy(xpath = "//*[@id='notInStockNoReplace']")
-    private WebElement irreplaceableWithOtherProduct;
-
-    @FindBy(id = "product-page__total-amount")
-    protected WebElement priceOnGotoCartButton;
-
-    @FindBy(id = "product-page__product-prescription")
-    protected WebElement showReceiptButton;
-
-    @FindBy(name = "j_username")
-    protected List<WebElement> signInEmailFields;
-
-    @FindBy(name = "j_password")
-    protected List<WebElement> passwordFields;
-
-    @FindBy(xpath = "//*[@class='login-widget__login']//input[contains(@class,'login-btn')]")
-    protected List<WebElement> loginButtons;
-
-    @FindBy(className = "popup-window__content")
-    private WebElement popupElement;
-
-    @FindBy(xpath = "//*[contains(@class,'goToCartButton')]")
-    protected WebElement gotoCartButton;
-
-    @FindBy(id = "top-menu-basket")
-    protected WebElement basket;
-
 
     public LensPage(WebDriver driver) {
         this.driver = driver;
