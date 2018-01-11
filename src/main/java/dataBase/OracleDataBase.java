@@ -2,7 +2,6 @@ package dataBase;
 
 import driverUtility.DBconfiguration;
 import org.testng.annotations.BeforeTest;
-
 import java.io.IOException;
 import java.sql.*;
 import java.text.SimpleDateFormat;
