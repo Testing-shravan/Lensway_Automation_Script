@@ -1,11 +1,11 @@
 package testScripts;
 
-import com.lensway.lenswayPages.HomePage;
+import lenswayPages.HomePage;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import com.lensway.testBase.TestBase;
+import testBase.TestBase;
 
 public class TC_003_Lensway_UserRegistration extends TestBase {
 

@@ -13,7 +13,7 @@ public class TC_007_Lensway_OracleDataBase {
 
     @Test(enabled=true)
 
-    public void testDataBase() throws IOException, SQLException {
+    public void testDataBase() throws IOException, SQLException, ClassNotFoundException {
 
         OracleDataBase.oracleConnect();
         ResultSet rs=OracleDataBase.getDataBase("SELECT * FROM MERCURY");

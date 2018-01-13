@@ -1,12 +1,15 @@
-
-//author saravanan kumar
 package testScripts;
 
-import com.lensway.lenswayPages.HomePage;
+import lenswayPages.HomePage;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import com.lensway.testBase.TestBase;
+import testBase.TestBase;
+
+import java.util.concurrent.TimeUnit;
 
 public class TC_002_Lensway_ValidLoginVerification extends TestBase {
 
@@ -14,7 +17,6 @@ public class TC_002_Lensway_ValidLoginVerification extends TestBase {
     HomePage homePage;
 
     @BeforeTest
-
     public void setuUp()
     {
 

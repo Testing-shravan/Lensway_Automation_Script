@@ -228,3 +228,130 @@
 2018-01-11 08:49:46 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (bba1e9a4e12934e2d4321d7bfa608e72)] -> xpath: //input[@name='j_password']]
 2018-01-11 08:49:46 INFO  HomePage:85 - Clicked login button = [[ChromeDriver: chrome on XP (bba1e9a4e12934e2d4321d7bfa608e72)] -> xpath: //input[@value='Logga in']]
 2018-01-11 08:50:06 INFO  TestBase:32 - #######################Finished test to verify login details#####################################
+2018-01-13 11:20:13 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 11:20:16 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (855b9b88a77dd4ebcc9c067d2b43c5fa)] -> xpath: //span[text()='Logga in']]
+2018-01-13 11:20:16 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (855b9b88a77dd4ebcc9c067d2b43c5fa)] -> xpath: //input[@name='j_username']]
+2018-01-13 11:20:16 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (855b9b88a77dd4ebcc9c067d2b43c5fa)] -> xpath: //input[@name='j_password']]
+2018-01-13 11:20:34 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 11:20:34 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 11:34:23 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 11:34:29 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 11:34:35 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 11:34:37 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (48f3fde43abaa0968e23067c93327a2b)] -> xpath: //span[text()='Logga in']]
+2018-01-13 11:34:41 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (48f3fde43abaa0968e23067c93327a2b)] -> xpath: //input[@name='j_username']]
+2018-01-13 11:34:42 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (48f3fde43abaa0968e23067c93327a2b)] -> xpath: //input[@name='j_password']]
+2018-01-13 11:35:06 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 11:35:06 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 11:35:07 INFO  TestBase:26 - #######################Starting test to verify login details#####################################
+2018-01-13 11:35:07 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (a4965b2b2ecc83a219c3ea31da47b67b)] -> xpath: //span[text()='Logga in']]
+2018-01-13 11:35:08 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (a4965b2b2ecc83a219c3ea31da47b67b)] -> xpath: //input[@name='j_username']]
+2018-01-13 11:35:09 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (a4965b2b2ecc83a219c3ea31da47b67b)] -> xpath: //input[@name='j_password']]
+2018-01-13 11:35:10 INFO  HomePage:85 - Clicked login button = [[ChromeDriver: chrome on XP (a4965b2b2ecc83a219c3ea31da47b67b)] -> xpath: //input[@value='Logga in']]
+2018-01-13 11:50:12 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 11:50:15 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 11:50:19 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 11:50:22 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 11:50:26 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 11:50:27 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (bc69f794f4a2a6a7c631ad2d252d8a8b)] -> xpath: //span[text()='Logga in']]
+2018-01-13 11:50:28 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (bc69f794f4a2a6a7c631ad2d252d8a8b)] -> xpath: //input[@name='j_username']]
+2018-01-13 11:50:29 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (bc69f794f4a2a6a7c631ad2d252d8a8b)] -> xpath: //input[@name='j_password']]
+2018-01-13 11:50:44 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################
+2018-01-13 11:50:48 INFO  TestBase:26 - #######################Starting test to verify login details#####################################
+2018-01-13 11:52:32 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 11:52:34 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 11:52:43 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 11:52:45 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 11:52:49 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 11:52:52 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (855c277945e8b12a7800aa3c24d62a2b)] -> xpath: //span[text()='Logga in']]
+2018-01-13 11:52:52 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (855c277945e8b12a7800aa3c24d62a2b)] -> xpath: //input[@name='j_username']]
+2018-01-13 11:52:53 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (855c277945e8b12a7800aa3c24d62a2b)] -> xpath: //input[@name='j_password']]
+2018-01-13 11:53:09 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 11:53:09 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 11:53:10 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################
+2018-01-13 11:53:14 INFO  TestBase:26 - #######################Starting test to verify login details#####################################
+2018-01-13 11:57:33 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 11:57:35 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (adc4773089b38ebf510cceba526aad56)] -> xpath: //span[text()='Logga in']]
+2018-01-13 11:57:35 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (adc4773089b38ebf510cceba526aad56)] -> xpath: //input[@name='j_username']]
+2018-01-13 11:57:36 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (adc4773089b38ebf510cceba526aad56)] -> xpath: //input[@name='j_password']]
+2018-01-13 11:57:52 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 11:57:52 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 12:05:54 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 12:05:56 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 12:06:00 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 12:06:03 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 12:06:07 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 12:06:08 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (c13dd0ec24590a771b8f01e75708dff1)] -> xpath: //span[text()='Logga in']]
+2018-01-13 12:06:09 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (c13dd0ec24590a771b8f01e75708dff1)] -> xpath: //input[@name='j_username']]
+2018-01-13 12:06:09 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (c13dd0ec24590a771b8f01e75708dff1)] -> xpath: //input[@name='j_password']]
+2018-01-13 12:06:27 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 12:06:27 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 12:06:29 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################
+2018-01-13 12:06:29 INFO  HomePage:91 - Mousehovered to login button = [[ChromeDriver: chrome on XP (c376979238cf1159c69a5a2b2efcb0e3)] -> xpath: //span[text()='Logga in']]
+2018-01-13 12:06:44 INFO  HomePage:96 - Clicked register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-13 12:06:45 INFO  HomePage:102 - Entered email to register = [[[ChromeDriver: chrome on XP (c376979238cf1159c69a5a2b2efcb0e3)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (c376979238cf1159c69a5a2b2efcb0e3)] -> xpath: //input[@name='email']]]
+2018-01-13 12:06:45 INFO  HomePage:104 - Rentered email to register = [[ChromeDriver: chrome on XP (c376979238cf1159c69a5a2b2efcb0e3)] -> name: email-repeat]
+2018-01-13 12:06:46 INFO  HomePage:110 - Entered password to register = [[ChromeDriver: chrome on XP (c376979238cf1159c69a5a2b2efcb0e3)] -> xpath: //input[@name='j_password']]
+2018-01-13 12:06:46 INFO  HomePage:113 - Checked agree to register = [[ChromeDriver: chrome on XP (c376979238cf1159c69a5a2b2efcb0e3)] -> name: i_agree]
+2018-01-13 12:06:57 INFO  TestBase:26 - #######################Starting test to verify login details#####################################
+2018-01-13 12:12:44 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 12:12:47 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (9f8a046e65ace2e8136b896861abdac9)] -> xpath: //span[text()='Logga in']]
+2018-01-13 12:12:48 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (9f8a046e65ace2e8136b896861abdac9)] -> xpath: //input[@name='j_username']]
+2018-01-13 12:12:48 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (9f8a046e65ace2e8136b896861abdac9)] -> xpath: //input[@name='j_password']]
+2018-01-13 12:13:04 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 12:13:04 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 12:15:40 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 12:15:43 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 12:15:47 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 12:15:47 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (cdaead641f0ea57d2e0778b89d24a1ef)] -> xpath: //span[text()='Logga in']]
+2018-01-13 12:15:48 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (cdaead641f0ea57d2e0778b89d24a1ef)] -> xpath: //input[@name='j_username']]
+2018-01-13 12:15:49 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (cdaead641f0ea57d2e0778b89d24a1ef)] -> xpath: //input[@name='j_password']]
+2018-01-13 12:16:05 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 12:16:05 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 12:16:06 INFO  TestBase:26 - #######################Starting test to verify login details#####################################
+2018-01-13 12:16:29 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 12:16:31 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (131a5f33cb70903a8175d3bc52ad6db4)] -> xpath: //span[text()='Logga in']]
+2018-01-13 12:16:32 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (131a5f33cb70903a8175d3bc52ad6db4)] -> xpath: //input[@name='j_username']]
+2018-01-13 12:16:32 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (131a5f33cb70903a8175d3bc52ad6db4)] -> xpath: //input[@name='j_password']]
+2018-01-13 12:16:49 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 12:16:49 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 12:18:06 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 12:18:08 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (a3416ae45dcb82da2cb9f5f8d131e6f4)] -> xpath: //span[text()='Logga in']]
+2018-01-13 12:18:09 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (a3416ae45dcb82da2cb9f5f8d131e6f4)] -> xpath: //input[@name='j_username']]
+2018-01-13 12:18:09 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (a3416ae45dcb82da2cb9f5f8d131e6f4)] -> xpath: //input[@name='j_password']]
+2018-01-13 12:18:09 INFO  HomePage:85 - Clicked login button = [[ChromeDriver: chrome on XP (a3416ae45dcb82da2cb9f5f8d131e6f4)] -> xpath: //input[@value='Logga in']]
+2018-01-13 12:18:09 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 12:24:08 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 12:24:11 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 12:24:15 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 12:24:15 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (c25c659d3d148dc6dddd68810d68c143)] -> xpath: //span[text()='Logga in']]
+2018-01-13 12:24:16 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (c25c659d3d148dc6dddd68810d68c143)] -> xpath: //input[@name='j_username']]
+2018-01-13 12:24:16 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (c25c659d3d148dc6dddd68810d68c143)] -> xpath: //input[@name='j_password']]
+2018-01-13 12:24:33 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 12:24:33 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 12:24:34 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################
+2018-01-13 12:24:34 INFO  HomePage:91 - Mousehovered to login button = [[ChromeDriver: chrome on XP (10549db921e132f9e5c24e01c1b44293)] -> xpath: //span[text()='Logga in']]
+2018-01-13 12:24:49 INFO  HomePage:96 - Clicked register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-13 12:24:49 INFO  HomePage:102 - Entered email to register = [[[ChromeDriver: chrome on XP (10549db921e132f9e5c24e01c1b44293)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (10549db921e132f9e5c24e01c1b44293)] -> xpath: //input[@name='email']]]
+2018-01-13 12:24:50 INFO  HomePage:104 - Rentered email to register = [[ChromeDriver: chrome on XP (10549db921e132f9e5c24e01c1b44293)] -> name: email-repeat]
+2018-01-13 12:24:50 INFO  HomePage:110 - Entered password to register = [[ChromeDriver: chrome on XP (10549db921e132f9e5c24e01c1b44293)] -> xpath: //input[@name='j_password']]
+2018-01-13 12:24:50 INFO  HomePage:113 - Checked agree to register = [[ChromeDriver: chrome on XP (10549db921e132f9e5c24e01c1b44293)] -> name: i_agree]
+2018-01-13 12:25:03 INFO  HomePage:115 - clicked the register button = Proxy element for: DefaultElementLocator 'By.partialLinkText: Registrera dig här'
+2018-01-13 16:12:29 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 16:12:32 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 16:12:36 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 16:12:37 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (1f4a18b947ae76c49696d68492f29960)] -> xpath: //span[text()='Logga in']]
+2018-01-13 16:12:38 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (1f4a18b947ae76c49696d68492f29960)] -> xpath: //input[@name='j_username']]
+2018-01-13 16:12:38 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (1f4a18b947ae76c49696d68492f29960)] -> xpath: //input[@name='j_password']]
+2018-01-13 16:12:55 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 16:12:55 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 16:12:56 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################
+2018-01-13 16:12:56 INFO  HomePage:91 - Mousehovered to login button = [[ChromeDriver: chrome on XP (772534982e93c459902c7f6746a154e8)] -> xpath: //span[text()='Logga in']]
+2018-01-13 16:19:57 INFO  TestBase:58 - Creating object of chrome
+2018-01-13 16:19:59 INFO  TestBase:76 - Navigating to https://uat-lw-se.lenslogistics.com/
+2018-01-13 16:20:04 INFO  TestBase:30 - #######################Starting test to verify login details#####################################
+2018-01-13 16:20:04 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (657ef46d248a4e5d3ad4377a7d7434a0)] -> xpath: //span[text()='Logga in']]
+2018-01-13 16:20:05 INFO  HomePage:81 - Entered the username = [[ChromeDriver: chrome on XP (657ef46d248a4e5d3ad4377a7d7434a0)] -> xpath: //input[@name='j_username']]
+2018-01-13 16:20:06 INFO  HomePage:83 - Entered the password = [[ChromeDriver: chrome on XP (657ef46d248a4e5d3ad4377a7d7434a0)] -> xpath: //input[@name='j_password']]
+2018-01-13 16:20:25 INFO  HomePage:85 - Clicked login button = Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Logga in']'
+2018-01-13 16:20:25 INFO  TestBase:35 - #######################Finished test to verify login details#####################################
+2018-01-13 16:20:25 INFO  TestBase:27 - #######################Starting test to verify User registration details#####################################

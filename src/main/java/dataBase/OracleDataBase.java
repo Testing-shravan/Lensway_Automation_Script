@@ -2,6 +2,7 @@ package dataBase;
 
 import driverUtility.DBconfiguration;
 import org.testng.annotations.BeforeTest;
+
 import java.io.IOException;
 import java.sql.*;
 import java.text.SimpleDateFormat;
@@ -17,7 +18,7 @@ public class OracleDataBase {
     static SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.555");
 
 
-     public static Connection oracleConnect()  {
+     public static Connection oracleConnect() throws IOException, SQLException, ClassNotFoundException {
 
         System.out.println("System connecting to database..." + "\n" + df.format(new Date()) + "" + "\n-----------------------------------------------------------------------");
 
@@ -27,7 +28,7 @@ public class OracleDataBase {
             connection = DriverManager.getConnection(DBconfiguration.getconnectionString(), DBconfiguration.getusername(), DBconfiguration.getpassword());
             System.out.println("Connected to Oracle Database");
 
-        } catch (ClassNotFoundException |IOException | SQLException e) {
+        } catch (SQLException e) {
             e.printStackTrace();
         }
         return connection;
