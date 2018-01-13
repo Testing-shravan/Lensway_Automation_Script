@@ -1,4 +1,4 @@
-package lenswayPages;
+package com.lensway.lenswayPages;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;

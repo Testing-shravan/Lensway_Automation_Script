@@ -1,4 +1,4 @@
-package testBase;
+package com.lensway.testBase;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
@@ -80,7 +80,7 @@ public class TestBase {
         File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
         try {
-            String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "src\\main\\java\\screenshot\\";
+            String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "src\\main\\java\\com.lensway.screenshot\\";
             File destFile = new File((String) reportDirectory + name + "_" + formater.format(calendar.getTime()) + ".png");
             FileUtils.copyFile(scrFile, destFile);
             // This will help us to link the screen shot in testNG report

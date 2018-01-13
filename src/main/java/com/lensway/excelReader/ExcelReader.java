@@ -1,4 +1,4 @@
-package excelReader;
+package com.lensway.excelReader;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -21,7 +21,7 @@ public class ExcelReader {
     public XSSFCell cell;
 
     //Users/bsingh5/git/POMWithPageFactoryFramework
-    //src/main/java/com/test/automation/uiAutomation/testData.xls;
+    //src/main/java/com/test/automation/uiAutomation/com.lensway.testData.xls;
 
     public ExcelReader(String path) {
         this.path = path;
