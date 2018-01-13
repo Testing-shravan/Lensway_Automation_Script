@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7d1d34-c4a7-4909-9c64-a8063dd61f3c" name="Default" comment="Test jenkins">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc14_10_2_0_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_20.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/excelReader/ExcelReader.class" afterPath="$PROJECT_DIR$/target/classes/excelReader/ExcelReader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lenswayPages/HomePage.class" afterPath="$PROJECT_DIR$/target/classes/lenswayPages/HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testBase/TestBase.class" afterPath="$PROJECT_DIR$/target/classes/testBase/TestBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/testScripts/TC_002_Lensway_ValidLoginVerification.class" afterPath="$PROJECT_DIR$/target/test-classes/testScripts/TC_002_Lensway_ValidLoginVerification.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/testScripts/TC_003_Lensway_UserRegistration.class" afterPath="$PROJECT_DIR$/target/test-classes/testScripts/TC_003_Lensway_UserRegistration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/testScripts/TC_004_Lensway_EditUserDetails.class" afterPath="$PROJECT_DIR$/target/test-classes/testScripts/TC_004_Lensway_EditUserDetails.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="6a7d1d34-c4a7-4909-9c64-a8063dd61f3c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Automation.iml" afterPath="$PROJECT_DIR$/Automation.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/automation.out" afterPath="$PROJECT_DIR$/automation.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dataBase/OracleDataBase.java" afterPath="$PROJECT_DIR$/src/main/java/dataBase/OracleDataBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testScripts/TC_002_Lensway_ValidLoginVerification.java" afterPath="$PROJECT_DIR$/src/test/java/testScripts/TC_002_Lensway_ValidLoginVerification.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testScripts/TC_003_Lensway_UserRegistration.java" afterPath="$PROJECT_DIR$/src/test/java/testScripts/TC_003_Lensway_UserRegistration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testScripts/TC_007_Lensway_OracleDataBase.java" afterPath="$PROJECT_DIR$/src/test/java/testScripts/TC_007_Lensway_OracleDataBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -501,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515857037287</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test jenkins">
+      <created>1515861499236</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1515861499236</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
