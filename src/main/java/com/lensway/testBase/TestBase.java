@@ -1,5 +1,7 @@
 package com.lensway.testBase;
 
+import lenswayPages.HomePage;
+import lenswayPages.LensPage;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -12,9 +14,12 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.Reporter;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 public class TestBase {
@@ -22,6 +27,9 @@ public class TestBase {
     public static final Logger log=Logger.getLogger(TestBase.class.getName());
 
     public WebDriver driver;
+    public HomePage homePage;
+    public LensPage lensPage;
+    public Properties properties;
     String url="https://uat-lw-se.lenslogistics.com/";
     String browser="chrome";
 
@@ -89,6 +97,8 @@ public class TestBase {
             e.printStackTrace();
         }
     }
+
+
 
 
 

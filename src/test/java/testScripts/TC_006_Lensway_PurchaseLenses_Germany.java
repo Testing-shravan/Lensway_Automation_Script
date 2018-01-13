@@ -1,34 +1,30 @@
-
-//author saravanan kumar
 package testScripts;
 
-import com.lensway.lenswayPages.HomePage;
+import lenswayPages.HomePage;
+import lenswayPages.LensPage;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import com.lensway.testBase.TestBase;
+import testBase.TestBase;
 
-public class TC_002_Lensway_ValidLoginVerification extends TestBase {
-
-
-    HomePage homePage;
+public class TC_006_Lensway_PurchaseLenses_Germany extends TestBase {
 
     @BeforeTest
 
-    public void setuUp()
+    public void setUp()
     {
-
-       init();
+        init();
 
     }
 
     @Test
 
-    public void loginValidation()  {
+    public void lensValidation()   {
         log.info("#######################Starting test to verify login details#####################################");
         homePage=new HomePage(driver);
-
-        homePage.login_Lensway("Testuat@lensway.com", "Test@1231");
+        lensPage=new LensPage(driver);
+        homePage.login_Lensway("Testuat@lenswaygroup.com", "Test@1231");
+        lensPage.LensProduct();
 
         log.info("#######################Finished test to verify login details#####################################");
 
@@ -43,5 +39,3 @@ public class TC_002_Lensway_ValidLoginVerification extends TestBase {
     }
 
 }
-
-
